@@ -1,6 +1,6 @@
-<div style="margin:0 auto ">
-  <img style="width:'100%'" src="https://i.ibb.co/bbJzgyr/Black-PInk-Simple-Content-Creator-Linkedin-Background-Photo.png" alt="Black-PInk-Simple-Content-Creator-Linkedin-Background-Photo" border="0">
-</div>
+ <div style="display: flex; justify-content: center;">
+        <img style="width: 100%;" src="https://i.ibb.co/bbJzgyr/Black-PInk-Simple-Content-Creator-Linkedin-Background-Photo.png" alt="Black-PInk-Simple-Content-Creator-Linkedin-Background-Photo" border="0">
+    </div>
 <h1 align="center">Hi 👋, I'm MD. Said Hasan Safi</h1>
 <h3 align="center">A passionate MERN developer from Bangladesh</h3>
 
