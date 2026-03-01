@@ -46,8 +46,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### **Currently Learning**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
@@ -56,6 +54,12 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 </div>
+
+#### **Currently Exploring (AI & Agents)**
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-8B5CF6?style=for-the-badge)
+![LangChain JS](https://img.shields.io/badge/LangChain_JS-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PHP AI Agents](https://img.shields.io/badge/PHP_Neuron_AI_Agent-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
@@ -94,3 +98,43 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=safiislam&label=Profile%20Views&color=0e75b6&style=flat" alt="safiislam" /> 
 </p>
+
+
+### 🤖 AI Engineering & Agent Development
+
+<div align="center">
+
+🚀 Currently building intelligent AI Agents using modern LLM frameworks.
+
+</div>
+
+#### 🔹 Agentic AI Development
+- Autonomous Task Execution Agents
+- Tool Calling & Function Agents
+- Memory-based Conversation Systems
+- Multi-Step Reasoning Workflows
+
+#### 🔹 LangChain JS (Node + Next.js)
+- Custom LLM Chains
+- RAG (Retrieval-Augmented Generation)
+- Vector Database Integration
+- AI Chatbot Systems
+- Agent Executor Systems
+
+#### 🔹 PHP Neuron AI Agent
+- AI Agent in Laravel Environment
+- OpenAI API Integration in PHP
+- Intelligent Workflow Automation
+- Server-Side AI Processing
+- Custom AI Tools with PHP
+
+---
+
+### 🧠 Currently Building
+
+- 🧩 Custom AI SaaS Agent Platform
+- 💬 Full Stack AI Chat System (Next.js + LangChain)
+- ⚡ Laravel AI Automation Tool
+- 📊 Business Workflow AI Agent
+
+---
